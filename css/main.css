@@ -199,8 +199,10 @@ body {
     font-size: 12pt;
 }
 
-.me {
-    /* text-shadow: 1px 0px #F2EE00; */
+.post {
+    padding-top: 10px;
+    text-align: left;
+    font-size: 12pt;
     font-family: 'robotomedium';
 }
 
